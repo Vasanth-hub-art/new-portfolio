@@ -1,0 +1,157 @@
+
+.logo{
+    color: White;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+nav{
+   
+    background-color: #333 ;
+    padding: 15px;
+     display: flex;
+     justify-content: space-between;
+     
+     align-items: center;
+    
+    
+}
+.nav-links a{
+     
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    
+    
+   
+
+}
+.nav-links a:hover{
+    color: yellow;
+}
+body{
+    background-color: #f2f2f2;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    
+}
+h1{
+    color: #222;
+    text-align: center;
+   
+   
+    
+   
+}
+h2{
+     color: #222;
+     margin:10px;
+     text-align: center;
+    
+}   
+h3{
+    color:#222;
+     text-align: center;
+}
+h4{
+    color:#222;
+
+}
+p{
+    color:#666;
+    margin:50px;
+}
+#home{
+    text-align: center;
+     padding-top: 200px;
+     padding-bottom: 250px;
+}
+button{
+    color: white;
+    background-color: #222;
+    width: 120px;
+    height: 50px;
+    border-radius: 50px;
+    
+}
+
+
+img{
+    width:200px;
+    
+    margin:20px;
+    border-radius: 50%;
+    margin:auto;
+    margin-left: 200px;
+    
+}
+.container{
+    display:flex;
+    justify-content: center;
+    gap: 200px;
+}
+.skill{
+    
+    text-align: center;
+    
+}
+
+
+  
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+    
+}
+.card{
+    background-color: white;
+    width: 150px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px grey;
+    margin-bottom: 100px;
+
+}
+.footer{
+      
+    text-align: center;
+    background-color: #333;
+    color:white;
+    padding: 10px;
+
+
+}
+.footer h2 {
+    color: white;
+}
+.edu{
+    text-align: center;
+    
+    margin-top: 100px;
+}
+.card2{
+    background-color: white;
+    width: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px grey;
+    margin-bottom: 100px;
+    
+}
+.proj{
+     display: flex;
+    justify-content: center;
+    gap:50px;
+    margin-top:100px ;
+}
+
+
+
